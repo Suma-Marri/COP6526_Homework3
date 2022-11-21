@@ -7,6 +7,7 @@ Question 1.1 Multiprocessing: In the file COP6526_Homework3.ipynb
 Question 1.2 MPI: Shown Below....
 
 <img width="681" alt="image" src="https://user-images.githubusercontent.com/58046234/202930406-762fa937-e28e-46e3-bf4a-bf338dd6bc5f.png">
+Command: mpiexec -n 4 python "NonlinearRegression.py"
 
 Output:
 

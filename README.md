@@ -5,6 +5,7 @@ Please parallelize the following simple nonlinear regression program using multi
 <img width="681" alt="image" src="https://user-images.githubusercontent.com/58046234/202930406-762fa937-e28e-46e3-bf4a-bf338dd6bc5f.png">
 
 Output:
+
 <img width="485" alt="image" src="https://user-images.githubusercontent.com/58046234/202930420-87d670ca-e0c6-4e73-8306-f823e9b262c0.png">
 <img width="485" alt="image" src="https://user-images.githubusercontent.com/58046234/202930426-e083c7fe-a9cc-40ae-a695-476b372e1497.png">
 <img width="485" alt="image" src="https://user-images.githubusercontent.com/58046234/202930437-630cbcec-1a98-4a0b-9fdd-aac0cf544633.png">

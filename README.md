@@ -2,9 +2,10 @@
 
 Please parallelize the following simple nonlinear regression program using multiprocessing and MPI in python on your single computer. According to the number of CPU cores in your computer, you may use the same number of processes. Please compare the entire runtime of the three different implementations (sequential, multiprocessing, MPI) in a report.
 
-### Question 1.1 Multiprocessing: In the file COP6526_Homework3.ipynb
+### Question 1.1 Multiprocessing
+In the file COP6526_Homework3.ipynb
 
-### Question 1.2 MPI: Shown Below....
+### Question 1.2 MPI
 
 <img width="681" alt="image" src="https://user-images.githubusercontent.com/58046234/202930406-762fa937-e28e-46e3-bf4a-bf338dd6bc5f.png">
 Command: mpiexec -n 4 python "NonlinearRegression.py"
